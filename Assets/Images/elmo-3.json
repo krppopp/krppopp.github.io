@@ -1,0 +1,396 @@
+{"frames": [
+
+{
+	"filename": "elmo/0134",
+	"frame": {"x":1,"y":1,"w":396,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":109,"w":396,"h":438},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0135",
+	"frame": {"x":399,"y":1,"w":396,"h":438},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":109,"w":396,"h":438},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0136",
+	"frame": {"x":797,"y":1,"w":393,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":106,"w":393,"h":441},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0137",
+	"frame": {"x":1192,"y":1,"w":382,"h":446},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":278,"y":101,"w":382,"h":446},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0138",
+	"frame": {"x":1576,"y":1,"w":361,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":274,"y":95,"w":361,"h":452},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0139",
+	"frame": {"x":1,"y":455,"w":327,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":273,"y":98,"w":327,"h":449},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0140",
+	"frame": {"x":330,"y":455,"w":317,"h":447},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":100,"w":317,"h":447},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0141",
+	"frame": {"x":649,"y":455,"w":313,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":98,"w":313,"h":449},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0142",
+	"frame": {"x":964,"y":455,"w":311,"h":450},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":97,"w":311,"h":450},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0143",
+	"frame": {"x":1277,"y":455,"w":309,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":95,"w":309,"h":452},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0144",
+	"frame": {"x":1588,"y":455,"w":310,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":267,"y":95,"w":310,"h":452},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0145",
+	"frame": {"x":1,"y":909,"w":309,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":266,"y":94,"w":309,"h":453},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0146",
+	"frame": {"x":312,"y":909,"w":309,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":265,"y":93,"w":309,"h":454},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0147",
+	"frame": {"x":623,"y":909,"w":309,"h":454},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":264,"y":93,"w":309,"h":454},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0148",
+	"frame": {"x":934,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0149",
+	"frame": {"x":934,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0150",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0151",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0152",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0153",
+	"frame": {"x":1556,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0154",
+	"frame": {"x":1556,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0155",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0156",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0157",
+	"frame": {"x":312,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0158",
+	"frame": {"x":312,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0159",
+	"frame": {"x":623,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0160",
+	"frame": {"x":623,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0161",
+	"frame": {"x":934,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0162",
+	"frame": {"x":934,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0163",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0164",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0165",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0166",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0167",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0168",
+	"frame": {"x":1245,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0169",
+	"frame": {"x":934,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0170",
+	"frame": {"x":934,"y":909,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0171",
+	"frame": {"x":1245,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0172",
+	"frame": {"x":1245,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0173",
+	"frame": {"x":1245,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0174",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0175",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0176",
+	"frame": {"x":1,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0177",
+	"frame": {"x":1556,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0178",
+	"frame": {"x":1556,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0179",
+	"frame": {"x":1556,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0180",
+	"frame": {"x":1556,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+},
+{
+	"filename": "elmo/0181",
+	"frame": {"x":1556,"y":1366,"w":309,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":263,"y":92,"w":309,"h":455},
+	"sourceSize": {"w":960,"h":619}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "elmo-3.png",
+	"format": "RGBA8888",
+	"size": {"w":1938,"h":1822},
+	"scale": "0.9375",
+	"smartupdate": "$TexturePacker:SmartUpdate:4f98d801196243ff9553a116556beeb3:1217f06ee493fb6464962111a7db0c9c:8523e1d5455c99b8f95ade9cb551331d$"
+}
+}

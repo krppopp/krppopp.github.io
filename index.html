@@ -1,0 +1,119 @@
+<html>
+<head>
+    <script src = "phaser.min.js"></script>
+    <script src = "Boot.js"></script>
+    <script src = "Preloader.js"></script>
+    <script src = "Main.js"></script>
+    <script src = "Game.js"></script>
+    <script src = "Introduction.js"></script>
+    <script src = "Prepreload.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background: #fff;
+        }
+        
+    </style>
+</head>
+    
+<body>
+    
+<div id = "gameContainer"></div>    
+
+    <script type = "text/javascript">
+        
+        
+        (function() {
+    function _constructor() {
+        _sesame.init();
+       
+        return _sesame
+    }
+	
+	/*
+	Sesame uses a URL variable scheme to set certain variables that are unique to the games instance (ex: mobile vs. desktop, ss.org vs. reuse on a co-productions site)
+	The URL for the game can include the following variables as part of a hash string, with an '/' in between values:
+	assetpath (used as a prefix for assets, if blank it assumes relative path loading of assets will work. forward slashes should be encoded) 
+	gaid (the google analytics tracking ID you wish to use)
+	donotdisplayclose (determines whether to show a close button. true = do not display close, false = display close)
+	
+	an example hash string:
+	[game url]#assetPath/%2Fcms_services%2Fservices%3Faction%3DassetPath/gaID/1234/doNotDisplayClose/false
+	
+	Any values left out of the string will revert to their defaults,
+	donotdisplayclose: false
+	Google Analytics ID: UA-4680963-1 (ss.org GA ID) 
+	assetPath: ""
+
+	*/
+	
+	function _decodeHash() {
+        var a = document.location.hash.replace(/#/, "").split("/");
+        var b = {};
+        for (var c = 1; c < a.length; c += 2) {
+            try {
+                var d = a[c - 1].toLowerCase();
+                var e = c;
+                b[d] = unescape(decodeURIComponent(a[e]))
+            } catch (f) {
+                _ump.trace("UMP API", "Error decoding URI component '" + a[c - 1], a[c], "Check that the parameter is correctly encoded in the URL hash.")
+            }
+        }
+        return b
+    }
+	var _sesame = {};
+	_sesame.params = null;
+	_sesame.init = function() {
+		var hashVars = _decodeHash();
+		/*
+		doNotDisplayClose: if set to true, no close should display. If anything but true, it will appear. This sets it to false if not found in the URL. ss.org may overwrite this with true.
+		gaID: Google Analytics ID. If not found in the URL, default to whatever is below 
+		assetPath: if found in the url, set it. If not, make it blank.
+		*/
+		
+		_sesame.params = {
+            doNotDisplayClose: hashVars.donotdisplayclose == "true" ? true : false,
+			gaID: hashVars.gaid ? hashVars.gaid : "UA-4680963-1" /*replace this with your default tracking ID */, 
+			assetPath: hashVars.assetpath ? hashVars.assetpath : ""
+        };
+	
+	}
+	window.sesame = _constructor();
+	/* Setting this as a global variable for older games that are looking for it */
+	window.doNotDisplayClose = sesame.params.doNotDisplayClose; 
+
+	
+}());
+        
+        
+        
+        
+
+        window.onload = function() {
+        var WIDTH = 1024;
+        var HEIGHT = 660;
+        var game = new Phaser.Game(WIDTH, HEIGHT, Phaser.CANVAS, '');
+
+            
+        game.state.add('Boot', EWW.Boot);
+        game.state.add('Preloader', EWW.Preloader);
+        game.state.add('Main', EWW.Main);
+        game.state.add('Game', EWW.Game);
+        game.state.add('Introduction', EWW.Introduction);
+        game.state.add('Prepreload', EWW.Prepreload);
+                    
+        //	Now start the Boot state.
+        game.state.start('Boot');
+        };
+    
+    
+    
+    
+    </script>
+    
+    
+    
+</body>        
+</html>

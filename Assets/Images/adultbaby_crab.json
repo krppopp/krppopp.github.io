@@ -1,0 +1,812 @@
+{"frames": [
+
+{
+	"filename": "adultbaby_crab/0000",
+	"frame": {"x":1153,"y":356,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0001",
+	"frame": {"x":1153,"y":356,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0002",
+	"frame": {"x":1153,"y":356,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0003",
+	"frame": {"x":1153,"y":356,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0004",
+	"frame": {"x":1153,"y":356,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0005",
+	"frame": {"x":762,"y":375,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0006",
+	"frame": {"x":762,"y":375,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0007",
+	"frame": {"x":768,"y":201,"w":383,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":47,"w":383,"h":172},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0008",
+	"frame": {"x":768,"y":201,"w":383,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":47,"w":383,"h":172},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0009",
+	"frame": {"x":1549,"y":173,"w":385,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":57,"w":385,"h":160},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0010",
+	"frame": {"x":1549,"y":173,"w":385,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":57,"w":385,"h":160},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0011",
+	"frame": {"x":1549,"y":173,"w":385,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":57,"w":385,"h":160},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0012",
+	"frame": {"x":760,"y":1063,"w":381,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":52,"w":381,"h":165},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0013",
+	"frame": {"x":1146,"y":1044,"w":381,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":52,"w":381,"h":167},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0014",
+	"frame": {"x":1161,"y":1,"w":386,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":40,"w":386,"h":181},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0015",
+	"frame": {"x":1161,"y":1,"w":386,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":40,"w":386,"h":181},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0016",
+	"frame": {"x":770,"y":1,"w":389,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":389,"h":198},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0017",
+	"frame": {"x":1125,"y":1404,"w":376,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":29,"w":376,"h":197},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0018",
+	"frame": {"x":1,"y":796,"w":375,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":375,"h":190},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0019",
+	"frame": {"x":1143,"y":1213,"w":376,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":29,"w":376,"h":189},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0020",
+	"frame": {"x":374,"y":1412,"w":377,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":377,"h":190},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0021",
+	"frame": {"x":1,"y":988,"w":374,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":30,"w":374,"h":188},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0022",
+	"frame": {"x":1,"y":1178,"w":373,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":28,"w":373,"h":190},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0023",
+	"frame": {"x":753,"y":1412,"w":370,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":28,"w":370,"h":190},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0024",
+	"frame": {"x":1,"y":1412,"w":371,"h":191},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":27,"w":371,"h":191},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0025",
+	"frame": {"x":1,"y":602,"w":375,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":26,"w":375,"h":192},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0026",
+	"frame": {"x":1,"y":403,"w":375,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":21,"w":375,"h":197},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0027",
+	"frame": {"x":1,"y":1,"w":375,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":19,"w":375,"h":199},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0028",
+	"frame": {"x":1,"y":202,"w":375,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":19,"w":375,"h":199},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0029",
+	"frame": {"x":1529,"y":1206,"w":377,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":22,"w":377,"h":196},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0030",
+	"frame": {"x":1503,"y":1404,"w":377,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":26,"w":377,"h":192},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0031",
+	"frame": {"x":376,"y":1222,"w":380,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":30,"w":380,"h":188},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0032",
+	"frame": {"x":377,"y":1038,"w":381,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":36,"w":381,"h":182},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0033",
+	"frame": {"x":378,"y":345,"w":382,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":43,"w":382,"h":175},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0034",
+	"frame": {"x":1161,"y":184,"w":384,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":48,"w":384,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0035",
+	"frame": {"x":1549,"y":1,"w":386,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":48,"w":386,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0036",
+	"frame": {"x":378,"y":173,"w":388,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":48,"w":388,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0037",
+	"frame": {"x":378,"y":1,"w":390,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":48,"w":390,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0038",
+	"frame": {"x":378,"y":1,"w":390,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":48,"w":390,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0039",
+	"frame": {"x":1530,"y":1026,"w":381,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":48,"w":381,"h":178},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0040",
+	"frame": {"x":1530,"y":1026,"w":381,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":48,"w":381,"h":178},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0041",
+	"frame": {"x":1547,"y":335,"w":382,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":173},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0042",
+	"frame": {"x":1547,"y":335,"w":382,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":173},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0043",
+	"frame": {"x":378,"y":522,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0044",
+	"frame": {"x":1537,"y":510,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0045",
+	"frame": {"x":1146,"y":528,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0046",
+	"frame": {"x":762,"y":547,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0047",
+	"frame": {"x":378,"y":694,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0048",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0049",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0050",
+	"frame": {"x":1146,"y":700,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0051",
+	"frame": {"x":1146,"y":700,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0052",
+	"frame": {"x":762,"y":719,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0053",
+	"frame": {"x":762,"y":719,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0054",
+	"frame": {"x":378,"y":866,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0055",
+	"frame": {"x":378,"y":866,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0056",
+	"frame": {"x":378,"y":866,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0057",
+	"frame": {"x":378,"y":866,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0058",
+	"frame": {"x":1530,"y":854,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0059",
+	"frame": {"x":1530,"y":854,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0060",
+	"frame": {"x":1146,"y":872,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0061",
+	"frame": {"x":1146,"y":872,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0062",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0063",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0064",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0065",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0066",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0067",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0068",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0069",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0070",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0071",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0072",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0073",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0074",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0075",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0076",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0077",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0078",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0079",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0080",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0081",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0082",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0083",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0084",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0085",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0086",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0087",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0088",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0089",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0090",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0091",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0092",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0093",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0094",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0095",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0096",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0097",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0098",
+	"frame": {"x":1530,"y":682,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+},
+{
+	"filename": "adultbaby_crab/0099",
+	"frame": {"x":762,"y":891,"w":382,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":382,"h":170},
+	"sourceSize": {"w":427,"h":275}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "adultbaby_crab.png",
+	"format": "RGBA8888",
+	"size": {"w":1936,"h":1604},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:7bb3541e16bc944f356ad6b83a27c57a:ba7955c9af36ed997a3f71b440fa7d3f:0879b213871b84a214b76ef821d1490a$"
+}
+}

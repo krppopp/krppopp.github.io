@@ -1,0 +1,812 @@
+{"frames": [
+
+{
+	"filename": "baby_puffin/0000",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0001",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0002",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0003",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0004",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0005",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0006",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0007",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0008",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0009",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0010",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0011",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0012",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0013",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0014",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0015",
+	"frame": {"x":131,"y":448,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0016",
+	"frame": {"x":261,"y":448,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0017",
+	"frame": {"x":391,"y":450,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0018",
+	"frame": {"x":650,"y":451,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0019",
+	"frame": {"x":780,"y":451,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0020",
+	"frame": {"x":1,"y":600,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0021",
+	"frame": {"x":1,"y":600,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0022",
+	"frame": {"x":650,"y":451,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0023",
+	"frame": {"x":391,"y":450,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0024",
+	"frame": {"x":261,"y":448,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0025",
+	"frame": {"x":131,"y":448,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0026",
+	"frame": {"x":521,"y":450,"w":127,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":127,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0027",
+	"frame": {"x":392,"y":298,"w":127,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":127,"h":150},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0028",
+	"frame": {"x":521,"y":298,"w":127,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":127,"h":150},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0029",
+	"frame": {"x":1,"y":296,"w":126,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":96,"w":126,"h":149},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0030",
+	"frame": {"x":129,"y":296,"w":128,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":96,"w":128,"h":149},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0031",
+	"frame": {"x":385,"y":1,"w":130,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":130,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0032",
+	"frame": {"x":517,"y":1,"w":132,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":132,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0033",
+	"frame": {"x":651,"y":1,"w":133,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":133,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0034",
+	"frame": {"x":128,"y":148,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":134,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0035",
+	"frame": {"x":264,"y":149,"w":134,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":134,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0036",
+	"frame": {"x":400,"y":149,"w":133,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":98,"w":133,"h":147},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0037",
+	"frame": {"x":259,"y":297,"w":131,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":96,"w":131,"h":149},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0038",
+	"frame": {"x":535,"y":149,"w":128,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":98,"w":128,"h":147},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0039",
+	"frame": {"x":786,"y":1,"w":125,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":125,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0040",
+	"frame": {"x":1,"y":146,"w":125,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":99,"w":125,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0041",
+	"frame": {"x":258,"y":1,"w":125,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":100,"w":125,"h":145},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0042",
+	"frame": {"x":1,"y":1,"w":126,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":102,"w":126,"h":143},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0043",
+	"frame": {"x":129,"y":1,"w":127,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":101,"w":127,"h":144},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0044",
+	"frame": {"x":665,"y":149,"w":128,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":97,"w":128,"h":148},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0045",
+	"frame": {"x":131,"y":601,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":129,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0046",
+	"frame": {"x":262,"y":603,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":129,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0047",
+	"frame": {"x":393,"y":603,"w":130,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":130,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0048",
+	"frame": {"x":650,"y":299,"w":130,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":130,"h":150},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0049",
+	"frame": {"x":782,"y":299,"w":129,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":95,"w":129,"h":150},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0050",
+	"frame": {"x":525,"y":604,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":129,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0051",
+	"frame": {"x":656,"y":604,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":129,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0052",
+	"frame": {"x":1,"y":753,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0053",
+	"frame": {"x":131,"y":754,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0054",
+	"frame": {"x":261,"y":756,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0055",
+	"frame": {"x":261,"y":756,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0056",
+	"frame": {"x":391,"y":756,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0057",
+	"frame": {"x":521,"y":757,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0058",
+	"frame": {"x":651,"y":757,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0059",
+	"frame": {"x":781,"y":757,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0060",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0061",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0062",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0063",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0064",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0065",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0066",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0067",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0068",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0069",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0070",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0071",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0072",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0073",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0074",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0075",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0076",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0077",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0078",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0079",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0080",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0081",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0082",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0083",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0084",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0085",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0086",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0087",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0088",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0089",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0090",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0091",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0092",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0093",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0094",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0095",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0096",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0097",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0098",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "baby_puffin/0099",
+	"frame": {"x":1,"y":447,"w":128,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":94,"w":128,"h":151},
+	"sourceSize": {"w":480,"h":275}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "baby_puffin.png",
+	"format": "RGBA8888",
+	"size": {"w":912,"h":909},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:7dbf221e7f568753e9d1d948ec72e030:0ea6afa72a02471acbcc2eaae9fb8963:1ed9286d73d612d1634240b45cf1060d$"
+}
+}

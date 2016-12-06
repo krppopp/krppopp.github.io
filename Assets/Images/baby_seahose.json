@@ -1,0 +1,812 @@
+{"frames": [
+
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0000",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0001",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0002",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0003",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0004",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0005",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0006",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0007",
+	"frame": {"x":888,"y":635,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0008",
+	"frame": {"x":955,"y":631,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0009",
+	"frame": {"x":1022,"y":629,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0010",
+	"frame": {"x":1089,"y":629,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0011",
+	"frame": {"x":572,"y":816,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0012",
+	"frame": {"x":888,"y":764,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0013",
+	"frame": {"x":888,"y":764,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0014",
+	"frame": {"x":1022,"y":629,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0015",
+	"frame": {"x":955,"y":631,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0016",
+	"frame": {"x":888,"y":635,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0017",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0018",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0019",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0020",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0021",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0022",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0023",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0024",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0025",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0026",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0027",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0028",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0029",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0030",
+	"frame": {"x":1410,"y":1,"w":65,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":112,"w":65,"h":128},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0031",
+	"frame": {"x":955,"y":760,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":110,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0032",
+	"frame": {"x":1106,"y":758,"w":65,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":109,"w":65,"h":126},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0033",
+	"frame": {"x":1173,"y":752,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":108,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0034",
+	"frame": {"x":1309,"y":807,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":109,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0035",
+	"frame": {"x":573,"y":665,"w":63,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":111,"w":63,"h":128},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0036",
+	"frame": {"x":1409,"y":260,"w":66,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":114,"w":66,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0037",
+	"frame": {"x":1376,"y":807,"w":63,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":117,"w":63,"h":126},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0038",
+	"frame": {"x":1240,"y":772,"w":67,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":119,"w":67,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0039",
+	"frame": {"x":1409,"y":389,"w":66,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":119,"w":66,"h":126},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0040",
+	"frame": {"x":725,"y":670,"w":76,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":120,"w":76,"h":126},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0041",
+	"frame": {"x":723,"y":798,"w":78,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":121,"w":78,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0042",
+	"frame": {"x":803,"y":635,"w":83,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":121,"w":83,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0043",
+	"frame": {"x":639,"y":796,"w":82,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":121,"w":82,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0044",
+	"frame": {"x":803,"y":762,"w":83,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":122,"w":83,"h":124},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0045",
+	"frame": {"x":1022,"y":758,"w":82,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":122,"w":82,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0046",
+	"frame": {"x":1156,"y":625,"w":83,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":122,"w":83,"h":125},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0047",
+	"frame": {"x":638,"y":670,"w":85,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":123,"w":85,"h":124},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0048",
+	"frame": {"x":483,"y":816,"w":87,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":121,"w":87,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0049",
+	"frame": {"x":483,"y":680,"w":88,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":114,"w":88,"h":134},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0050",
+	"frame": {"x":1372,"y":665,"w":90,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":108,"w":90,"h":140},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0051",
+	"frame": {"x":1372,"y":517,"w":92,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":102,"w":92,"h":146},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0052",
+	"frame": {"x":1278,"y":618,"w":92,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":96,"w":92,"h":152},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0053",
+	"frame": {"x":1278,"y":457,"w":92,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":90,"w":92,"h":159},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0054",
+	"frame": {"x":1184,"y":457,"w":92,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":83,"w":92,"h":166},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0055",
+	"frame": {"x":1091,"y":448,"w":91,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":76,"w":91,"h":173},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0056",
+	"frame": {"x":999,"y":447,"w":90,"h":180},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":69,"w":90,"h":180},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0057",
+	"frame": {"x":908,"y":442,"w":89,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":62,"w":89,"h":187},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0058",
+	"frame": {"x":394,"y":698,"w":87,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":55,"w":87,"h":194},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0059",
+	"frame": {"x":1320,"y":236,"w":87,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":49,"w":87,"h":200},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0060",
+	"frame": {"x":303,"y":698,"w":89,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":42,"w":89,"h":207},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0061",
+	"frame": {"x":211,"y":715,"w":90,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":36,"w":90,"h":213},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0062",
+	"frame": {"x":119,"y":734,"w":90,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":30,"w":90,"h":219},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0063",
+	"frame": {"x":932,"y":216,"w":90,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":25,"w":90,"h":224},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0064",
+	"frame": {"x":1024,"y":215,"w":91,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":19,"w":91,"h":230},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0065",
+	"frame": {"x":106,"y":500,"w":93,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":17,"w":93,"h":232},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0066",
+	"frame": {"x":523,"y":226,"w":94,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":15,"w":94,"h":235},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0067",
+	"frame": {"x":313,"y":234,"w":95,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":9,"w":95,"h":240},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0068",
+	"frame": {"x":109,"y":250,"w":96,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":2,"w":96,"h":247},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0069",
+	"frame": {"x":1,"y":500,"w":103,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":0,"w":103,"h":249},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0070",
+	"frame": {"x":1,"y":250,"w":106,"h":248},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":0,"w":106,"h":248},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0071",
+	"frame": {"x":1,"y":1,"w":113,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":165,"y":0,"w":113,"h":247},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0072",
+	"frame": {"x":468,"y":1,"w":117,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":163,"y":23,"w":117,"h":223},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0073",
+	"frame": {"x":346,"y":1,"w":120,"h":223},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":160,"y":22,"w":120,"h":223},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0074",
+	"frame": {"x":1182,"y":1,"w":113,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":158,"y":33,"w":113,"h":211},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0075",
+	"frame": {"x":828,"y":1,"w":118,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":30,"w":118,"h":213},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0076",
+	"frame": {"x":705,"y":1,"w":121,"h":213},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":29,"w":121,"h":213},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0077",
+	"frame": {"x":802,"y":443,"w":104,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":52,"w":104,"h":190},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0078",
+	"frame": {"x":597,"y":467,"w":103,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":46,"w":103,"h":195},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0079",
+	"frame": {"x":494,"y":463,"w":101,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":41,"w":101,"h":200},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0080",
+	"frame": {"x":702,"y":467,"w":98,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":40,"w":98,"h":201},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0081",
+	"frame": {"x":396,"y":476,"w":96,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":39,"w":96,"h":202},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0082",
+	"frame": {"x":300,"y":487,"w":94,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":32,"w":94,"h":209},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0083",
+	"frame": {"x":201,"y":499,"w":97,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":27,"w":97,"h":214},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0084",
+	"frame": {"x":1216,"y":236,"w":102,"h":219},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":22,"w":102,"h":219},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0085",
+	"frame": {"x":826,"y":216,"w":104,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":21,"w":104,"h":220},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0086",
+	"frame": {"x":720,"y":216,"w":104,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":16,"w":104,"h":225},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0087",
+	"frame": {"x":1117,"y":214,"w":97,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":9,"w":97,"h":232},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0088",
+	"frame": {"x":619,"y":225,"w":99,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":1,"w":99,"h":240},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0089",
+	"frame": {"x":207,"y":244,"w":104,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":0,"w":104,"h":241},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0090",
+	"frame": {"x":116,"y":1,"w":110,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":0,"w":110,"h":241},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0091",
+	"frame": {"x":1066,"y":1,"w":114,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":30,"w":114,"h":211},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0092",
+	"frame": {"x":948,"y":1,"w":116,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":29,"w":116,"h":212},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0093",
+	"frame": {"x":1,"y":751,"w":116,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":25,"w":116,"h":216},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0094",
+	"frame": {"x":587,"y":1,"w":116,"h":222},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":19,"w":116,"h":222},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0095",
+	"frame": {"x":228,"y":1,"w":116,"h":231},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":10,"w":116,"h":231},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0096",
+	"frame": {"x":1297,"y":1,"w":111,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":8,"w":111,"h":233},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0097",
+	"frame": {"x":410,"y":226,"w":111,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":6,"w":111,"h":235},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0098",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+},
+{
+	"filename": "EW_AnimalGame_Seahorse_baby_v02_RK/0099",
+	"frame": {"x":1410,"y":131,"w":65,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":114,"w":65,"h":127},
+	"sourceSize": {"w":480,"h":275}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "baby_seahorse.png",
+	"format": "RGBA8888",
+	"size": {"w":1476,"h":968},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:bef284d5db7a442f04e7e538017889fd:51cd58579bc4c3ef0d0c227caf3fe30a:ec2f15c8d2cad626b228911636fcb73a$"
+}
+}

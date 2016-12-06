@@ -1,0 +1,812 @@
+{"frames": [
+
+{
+	"filename": "adultbaby_turtle/0000",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0001",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0002",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0003",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0004",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0005",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0006",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0007",
+	"frame": {"x":1009,"y":980,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0008",
+	"frame": {"x":1345,"y":980,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0009",
+	"frame": {"x":1002,"y":835,"w":334,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":48,"w":334,"h":142},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0010",
+	"frame": {"x":1338,"y":836,"w":334,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":48,"w":334,"h":142},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0011",
+	"frame": {"x":1674,"y":836,"w":334,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":48,"w":334,"h":142},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0012",
+	"frame": {"x":1,"y":963,"w":334,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":48,"w":334,"h":142},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0013",
+	"frame": {"x":337,"y":973,"w":334,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":48,"w":334,"h":142},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0014",
+	"frame": {"x":337,"y":1117,"w":334,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":46,"w":334,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0015",
+	"frame": {"x":673,"y":1124,"w":334,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":46,"w":334,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0016",
+	"frame": {"x":337,"y":1409,"w":334,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":44,"w":334,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0017",
+	"frame": {"x":673,"y":1416,"w":334,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":44,"w":334,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0018",
+	"frame": {"x":1345,"y":1868,"w":333,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":39,"w":333,"h":151},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0019",
+	"frame": {"x":1680,"y":1868,"w":333,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":39,"w":333,"h":151},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0020",
+	"frame": {"x":337,"y":1706,"w":332,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":40,"w":332,"h":150},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0021",
+	"frame": {"x":671,"y":1715,"w":332,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":40,"w":332,"h":150},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0022",
+	"frame": {"x":672,"y":1564,"w":332,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":41,"w":332,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0023",
+	"frame": {"x":1006,"y":1565,"w":333,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":41,"w":333,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0024",
+	"frame": {"x":1341,"y":1566,"w":333,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":41,"w":333,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0025",
+	"frame": {"x":1676,"y":1566,"w":333,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":41,"w":333,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0026",
+	"frame": {"x":1,"y":1694,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0027",
+	"frame": {"x":1005,"y":1716,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0028",
+	"frame": {"x":1341,"y":1717,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0029",
+	"frame": {"x":1677,"y":1717,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0030",
+	"frame": {"x":1,"y":1845,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0031",
+	"frame": {"x":337,"y":1867,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0032",
+	"frame": {"x":673,"y":1867,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0033",
+	"frame": {"x":1009,"y":1868,"w":334,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":334,"h":149},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0034",
+	"frame": {"x":1,"y":1545,"w":334,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":43,"w":334,"h":147},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0035",
+	"frame": {"x":1,"y":1545,"w":334,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":43,"w":334,"h":147},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0036",
+	"frame": {"x":1009,"y":1417,"w":334,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":44,"w":334,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0037",
+	"frame": {"x":1009,"y":1417,"w":334,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":44,"w":334,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0038",
+	"frame": {"x":1349,"y":1271,"w":334,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":45,"w":334,"h":145},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0039",
+	"frame": {"x":1685,"y":1271,"w":334,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":45,"w":334,"h":145},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0040",
+	"frame": {"x":1681,"y":980,"w":335,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":335,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0041",
+	"frame": {"x":1009,"y":1125,"w":335,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":335,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0042",
+	"frame": {"x":1346,"y":1125,"w":336,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":336,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0043",
+	"frame": {"x":673,"y":1270,"w":336,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":336,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0044",
+	"frame": {"x":1011,"y":1271,"w":336,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":336,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0045",
+	"frame": {"x":667,"y":833,"w":333,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":53,"w":333,"h":138},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0046",
+	"frame": {"x":333,"y":829,"w":332,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":59,"w":332,"h":132},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0047",
+	"frame": {"x":1305,"y":703,"w":330,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":61,"w":330,"h":130},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0048",
+	"frame": {"x":976,"y":703,"w":327,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":63,"w":327,"h":128},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0049",
+	"frame": {"x":649,"y":703,"w":325,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":67,"w":325,"h":124},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0050",
+	"frame": {"x":324,"y":701,"w":323,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":71,"w":323,"h":120},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0051",
+	"frame": {"x":1,"y":701,"w":321,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":73,"w":321,"h":118},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0052",
+	"frame": {"x":1,"y":583,"w":318,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":75,"w":318,"h":116},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0053",
+	"frame": {"x":641,"y":1,"w":317,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":77,"w":317,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0054",
+	"frame": {"x":960,"y":1,"w":317,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":77,"w":317,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0055",
+	"frame": {"x":1,"y":1,"w":318,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":77,"w":318,"h":113},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0056",
+	"frame": {"x":1279,"y":1,"w":318,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":77,"w":318,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0057",
+	"frame": {"x":321,"y":1,"w":318,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":77,"w":318,"h":113},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0058",
+	"frame": {"x":1290,"y":117,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0059",
+	"frame": {"x":1612,"y":117,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0060",
+	"frame": {"x":969,"y":585,"w":320,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":75,"w":320,"h":116},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0061",
+	"frame": {"x":1291,"y":585,"w":320,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":75,"w":320,"h":116},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0062",
+	"frame": {"x":1613,"y":585,"w":320,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":75,"w":320,"h":116},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0063",
+	"frame": {"x":1,"y":232,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0064",
+	"frame": {"x":1599,"y":1,"w":320,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0065",
+	"frame": {"x":323,"y":233,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0066",
+	"frame": {"x":1,"y":116,"w":320,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0067",
+	"frame": {"x":323,"y":117,"w":320,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0068",
+	"frame": {"x":645,"y":117,"w":320,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0069",
+	"frame": {"x":645,"y":233,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0070",
+	"frame": {"x":967,"y":233,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0071",
+	"frame": {"x":1289,"y":234,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0072",
+	"frame": {"x":1611,"y":234,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0073",
+	"frame": {"x":1,"y":349,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0074",
+	"frame": {"x":323,"y":350,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0075",
+	"frame": {"x":645,"y":350,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0076",
+	"frame": {"x":967,"y":350,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0077",
+	"frame": {"x":1289,"y":351,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0078",
+	"frame": {"x":1611,"y":351,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0079",
+	"frame": {"x":1,"y":466,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0080",
+	"frame": {"x":323,"y":467,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0081",
+	"frame": {"x":645,"y":467,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0082",
+	"frame": {"x":967,"y":467,"w":320,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":320,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0083",
+	"frame": {"x":1289,"y":468,"w":321,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":321,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0084",
+	"frame": {"x":1612,"y":468,"w":321,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":321,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0085",
+	"frame": {"x":967,"y":117,"w":321,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":77,"w":321,"h":114},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0086",
+	"frame": {"x":321,"y":584,"w":321,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":321,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0087",
+	"frame": {"x":644,"y":584,"w":323,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":76,"w":323,"h":115},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0088",
+	"frame": {"x":1637,"y":703,"w":327,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":61,"w":327,"h":131},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0089",
+	"frame": {"x":1,"y":823,"w":330,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":60,"w":330,"h":131},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0090",
+	"frame": {"x":337,"y":1557,"w":333,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":43,"w":333,"h":147},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0091",
+	"frame": {"x":1345,"y":1418,"w":333,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":44,"w":333,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0092",
+	"frame": {"x":1680,"y":1418,"w":334,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":44,"w":334,"h":146},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0093",
+	"frame": {"x":1,"y":1398,"w":334,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":45,"w":334,"h":145},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0094",
+	"frame": {"x":1684,"y":1125,"w":334,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":46,"w":334,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0095",
+	"frame": {"x":1,"y":1252,"w":334,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":46,"w":334,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0096",
+	"frame": {"x":337,"y":1263,"w":334,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":46,"w":334,"h":144},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0097",
+	"frame": {"x":1,"y":1107,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0098",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+},
+{
+	"filename": "adultbaby_turtle/0099",
+	"frame": {"x":673,"y":979,"w":334,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":47,"w":334,"h":143},
+	"sourceSize": {"w":414,"h":238}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "adultbaby_turtle.png",
+	"format": "RGBA8888",
+	"size": {"w":2020,"h":2020},
+	"scale": "0.36",
+	"smartupdate": "$TexturePacker:SmartUpdate:00545175327367f2aac3c3931f4402c0:d114c1efe65b944ec587459adcd1ce5f:a85ee8abb7367ada4971e52d8e168453$"
+}
+}
