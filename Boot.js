@@ -105,7 +105,7 @@ EWW.Boot.prototype = {
     },
 
     preload: function () {
-        this.load.text('levels', 'levels.json');
+        this.load.text('levels', 'levels.JSON');
 
     },
 
