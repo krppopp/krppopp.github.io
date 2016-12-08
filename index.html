@@ -1,119 +1,195 @@
+<!DOCTYPE html>
 <html>
-<head>
-    <script src = "scripts/phaser.min.js"></script>
-    <script src = "scripts/Boot.js"></script>
-    <script src = "scripts/Preloader.js"></script>
-    <script src = "scripts/Main.js"></script>
-    <script src = "scripts/Game.js"></script>
-    <script src = "scripts/Introduction.js"></script>
-    <script src = "scripts/Prepreload.js"></script>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background: #fff;
-        }
-        
-    </style>
-</head>
-    
-<body>
-    
-<div id = "gameContainer"></div>    
+	<head>
+    	<title>Grover's Diner Dash</title>
+     
+     	<script type="text/javascript">
 
-    <script type = "text/javascript">
-        
-        
-        (function() {
-    function _constructor() {
-        _sesame.init();
-       
-        return _sesame
-    }
-	
-	/*
-	Sesame uses a URL variable scheme to set certain variables that are unique to the games instance (ex: mobile vs. desktop, ss.org vs. reuse on a co-productions site)
-	The URL for the game can include the following variables as part of a hash string, with an '/' in between values:
-	assetpath (used as a prefix for assets, if blank it assumes relative path loading of assets will work. forward slashes should be encoded) 
-	gaid (the google analytics tracking ID you wish to use)
-	donotdisplayclose (determines whether to show a close button. true = do not display close, false = display close)
-	
-	an example hash string:
-	[game url]#assetPath/%2Fcms_services%2Fservices%3Faction%3DassetPath/gaID/1234/doNotDisplayClose/false
-	
-	Any values left out of the string will revert to their defaults,
-	donotdisplayclose: false
-	Google Analytics ID: UA-4680963-1 (ss.org GA ID) 
-	assetPath: ""
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-42677492-2']); // Sesame Go WebApp
+			  //_gaq.push(['_setAccount', 'UA-42677492-3']); // Sesame Go Mobile Apps
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			  
+		</script>  
 
-	*/
-	
-	function _decodeHash() {
-        var a = document.location.hash.replace(/#/, "").split("/");
-        var b = {};
-        for (var c = 1; c < a.length; c += 2) {
-            try {
-                var d = a[c - 1].toLowerCase();
-                var e = c;
-                b[d] = unescape(decodeURIComponent(a[e]))
-            } catch (f) {
-                _ump.trace("UMP API", "Error decoding URI component '" + a[c - 1], a[c], "Check that the parameter is correctly encoded in the URL hash.")
-            }
-        }
-        return b
-    }
-	var _sesame = {};
-	_sesame.params = null;
-	_sesame.init = function() {
-		var hashVars = _decodeHash();
-		/*
-		doNotDisplayClose: if set to true, no close should display. If anything but true, it will appear. This sets it to false if not found in the URL. ss.org may overwrite this with true.
-		gaID: Google Analytics ID. If not found in the URL, default to whatever is below 
-		assetPath: if found in the url, set it. If not, make it blank.
-		*/
+        <style type="text/css">
+        	html { 
+        		margin: 0;
+        		padding: 0;
+        		width: 100%; 
+        		height: 100%; 
+        	}
+		    body { 
+		    	margin: 0; 
+		    	padding: 0;
+		    	width: 100%; 
+		    	height: 100%; 
+		    	background-color: #000;
+		    	/* Turn off tap highlight in Mobile Safari */
+		    	-webkit-tap-highlight-color: rgba(0,0,0,0);
+		    }
+		    #WMgame { 
+		    	width: 100%; 
+		    	height: 100%;
+		    	overflow: hidden;
+		    	position: relative; 
+		    }
+		    #WMgameContainer { 
+		    	width: 100%; 
+		    	height: 100%;
+		    	position: relative; 
+		    }
+		    /* Position absolute required to stack canvases on top of each other. */
+		    .WMcanvas { 
+		    	position: absolute; 
+		    	width: 100%; 
+		    	height: 100%; 
+		    }
+        </style>
+     
+        <!-- Create viewport meta tag. Content will be set by player object in JavaScript. -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        
+        <!-- Set standalone mode so the URL bar and Button bar are hidden when run from Home Screen. -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <!-- Set the iOS status bar to black. -->
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    </head>
+ 
+    <body>
+		<!-- Game Element - Markup will be added to this element after the game is instantiated. -->
+	    <div id="WMgame"></div>
+
+	    <div id="WMgame"></div>
+    
+	    <!-- Framework Includes -->
+	    <script src="js/WM.js"></script>
+	    <script src="js/controller.js"></script>
+	    <script src="js/game.js"></script>
+	    <script src="js/view.js"></script>
+	    <script src="js/sprite.js"></script>
+	    <script src="js/dispatcher.js"></script>
+	    <script src="js/resourcer.js"></script>
+	    <script src="js/loadingView.js"></script>
+	    <script src="js/successView.js"></script>
+	    <script src="js/landscapeOnly.js"></script>
+	    <script src="js/commonHud.js"></script>
+	    <script src="js/path.js"></script>
+	    <script src="js/actor.js"></script>
+	    <script src="js/audio.js"></script>
+	    <script src="js/shortestPath.js"></script>
+	    
+	    <!-- Engine Includes -->
+	    <script src="js/pathDrawing.js"></script>
+	    <script src="js/userPath.js"></script>
+	    
+	    <!-- Game Configuration -->
+		<script src="pathDrawing-config.js"></script>
 		
-		_sesame.params = {
-            doNotDisplayClose: hashVars.donotdisplayclose == "true" ? true : false,
-			gaID: hashVars.gaid ? hashVars.gaid : "UA-4680963-1" /*replace this with your default tracking ID */, 
-			assetPath: hashVars.assetpath ? hashVars.assetpath : ""
-        };
-	
-	}
-	window.sesame = _constructor();
-	/* Setting this as a global variable for older games that are looking for it */
-	window.doNotDisplayClose = sesame.params.doNotDisplayClose; 
+	    <!-- WM Development Player - This should be replaced by the UMP. -->
+	    <script src="js/player.js"></script>
 
-	
-}());
-        
-        
-        
-        
+	    
+	    <script>
+		   
+			(function (GLOBAL, WM) {
+			
+			    var player,
+                    key;
 
-        window.onload = function() {
-        var WIDTH = 1024;
-        var HEIGHT = 660;
-        var game = new Phaser.Game(WIDTH, HEIGHT, Phaser.CANVAS, '');
+                WM.config.resourcePath = "" + WM.config.resourcePath;
+			   
+			    // Instantiate the player
+				player = WM.player(GLOBAL, {
+					preventScrolling: true
+				});
+				
+				player.setGameIcon(WM.config.resourcePath + WM.config.gameIcon);
+				
+				// Set the config's game size to the viewport detected by the player
+				WM.config.gameWidth = player.viewportWidth;
+				WM.config.gameHeight = player.viewportHeight;
+				
+				// If a game offset is specified for the current device set the config property
+				for (key in WM.config.deviceOffset) {
+					if (key.toUpperCase() === player.getDevice().toUpperCase()) {
+						WM.config.overallOffset = WM.config.deviceOffset[key];
+						break;
+					}
+				}
+				
+				// Set the config's element property to the element where the game markup will be added
+				WM.config.element = GLOBAL.document.getElementById("WMgame");
+				
+				// Instantiate the game
+				WM.curGame = WM.pathDrawing(GLOBAL, WM, WM.config);
+				
+				// Assign the game to the player
+				player.setGame(WM.curGame);
+				
+				// Listen for when exit button touched event
+				WM.curGame.addEventListener("EXIT_GAME", function () {
+				
+					// Handle when the exit button is touched
+					WM.log("Exit Game Event Dispatched.");
+					
+					// Go to previous page
+					GLOBAL.history.back();
+				});
+				
+				// Listen for when the game has loaded all its resources
+				WM.curGame.addEventListener("GAME_LOADED", function () {
+					
+					// Start the game
+					WM.curGame.playGame();
+				});
+				// Load all the game resources
+				WM.curGame.loadGame();
+				
+				// Hide URL bar
+				player.hideURLBar();
 
-            
-        game.state.add('Boot', EWW.Boot);
-        game.state.add('Preloader', EWW.Preloader);
-        game.state.add('Main', EWW.Main);
-        game.state.add('Game', EWW.Game);
-        game.state.add('Introduction', EWW.Introduction);
-        game.state.add('Prepreload', EWW.Prepreload);
-                    
-        //	Now start the Boot state.
-        game.state.start('Boot');
-        };
-    
-    
-    
-    
-    </script>
-    
-    
-    
-</body>        
+			}(window, WM));
+
+			WM.trackEvent = function (stats) {
+							
+				var statStr,
+					statArr = ["_trackEvent"];
+				
+				statArr.push(stats.category);
+				statArr.push(stats.action);
+				if (stats.label) {
+					statArr.push(stats.label);
+					
+					if (stats.value) {
+						statArr.push(stats.value);
+						
+						if (stats.value) {
+							statArr.push(stats.value);
+						}
+					}
+				}
+				
+				_gaq.push(statArr);
+				
+				if (JSON) {
+					statStr = JSON.stringify(stats);
+				}
+		
+				WM.debug("Track Event: " + statStr);
+				
+			};
+			WM.trackEvent({
+				category: "game_" + WM.config.gameID,
+				action: "launch",
+				label: WM.config.gameID
+			});
+	    </script>
+    </body>
 </html>
